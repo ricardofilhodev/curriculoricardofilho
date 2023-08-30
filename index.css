@@ -1,0 +1,168 @@
+.header{
+    background-color: #2b76a2;
+    padding: 30px 0;
+}
+
+.header h1{
+    font-family: 'Archivo Black';
+    color: white;
+    font-size: 36px;
+}
+
+.header h2{
+    font-family: 'Barlow Semi Condensed';
+    color: white;
+    font-size: 24px;
+}
+
+.lines{
+    border: 1.5px solid #2b76a2;
+    border-radius: 5px;
+    opacity: 1;
+    margin: 10px 0;
+}
+
+/* ------------ */
+
+.profile{
+
+}
+
+.profile h3{
+    margin: 20px 20px 0 0;
+    font-family: 'Barlow Semi Condensed';
+    color: #2b76a2;
+    font-size: 28px;
+    font-weight: bolder;
+}
+
+.profile p{
+    margin: 10px 20px 0 0;
+    text-align: justify;
+    font-family: sans-serif;
+    font-size: 17px;
+}
+
+.pphoto{
+    padding: 20px 0;
+    background-color: #eae5e5;
+    display: flex;
+    justify-content: center;
+}
+
+.pphoto img{
+    border-radius: 50%;
+}
+
+/* ------------ */
+
+.experiences{
+    margin-top: 0px;
+}
+
+.experiences h3{
+    margin: 20px 20px 0 0;
+    font-family: 'Barlow Semi Condensed';
+    color: #2b76a2;
+    font-size: 28px;
+    font-weight: bolder;
+}
+
+.divexp{
+    margin: 10px 20px 0 0;
+}
+
+.divexp p{
+    margin: 0;
+    text-align: justify;
+    font-family: sans-serif;
+}
+
+.function{
+    font-size: 20px;
+    font-weight: bold;
+    color: #2b76a2;
+}
+
+.company{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.period{
+    font-size: 18px;
+    font-style: italic;
+}
+
+.tasks{
+    font-size: 18px;
+
+}
+
+.einfo{
+    padding: 0 20px;
+    background-color: #eae5e5;
+}
+
+.divinfo{
+    margin-top: 10px;
+}
+
+.divinfo p{
+    margin: 0;
+    text-align: justify;
+    font-family: sans-serif;
+}
+
+.infoh{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.infop{
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+}
+
+.infohab{
+    font-size: 18px;
+}
+
+/* ------------ */
+
+.academic{
+
+}
+
+.academic h3{
+    margin: 40px 20px 0 0;
+    font-family: 'Barlow Semi Condensed';
+    color: #2b76a2;
+    font-size: 28px;
+    font-weight: bolder;
+}
+
+.ainfo{
+    padding: 0 20px;
+    background-color: #eae5e5;
+}
+
+/* ------------ */
+
+.courses{
+
+}
+
+.courses h3{
+    margin: 40px 20px 0 0;
+    font-family: 'Barlow Semi Condensed';
+    color: #2b76a2;
+    font-size: 28px;
+    font-weight: bolder;
+}
+
+.cinfo{
+    padding: 0 20px;
+    background-color: #eae5e5;
+}
